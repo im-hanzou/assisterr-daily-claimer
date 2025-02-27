@@ -3,7 +3,7 @@ Autoclaim Daily Points for assisterr.ai support multiple accounts and using prox
 ## Tools and components required
 1. Register: [https://build.assisterr.ai](https://build.assisterr.ai/?ref=677ac8bd0fed0714db3d6dc7) (Connect Twitter, Discord and complete tasks)
 2. Proxies (OPTIONAL)
-3. VPS or RDP (OPTIONAL)
+3. VPS or RDP (OPTIONAL), Get free $200 credit [DigitalOcean](https://m.do.co/c/3f132e0f7e13) for 60 days here: [Register](https://m.do.co/c/3f132e0f7e13)
 4. NodeJS. How to install:
    - Linux users can go [here](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-22-04)
    - Windows users can go [here](https://www.youtube.com/watch?v=La6kH33-AVM&ab_channel=TheCodeCity)
